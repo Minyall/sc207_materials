@@ -40,3 +40,4 @@ saved_snippets.ipynb
 17_webscraping_2/user_agent.txt
 assessments/
 6-7_twitter_api/credentials.py
+*.pyc
