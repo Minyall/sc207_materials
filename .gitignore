@@ -41,3 +41,5 @@ saved_snippets.ipynb
 assessments/
 6-7_twitter_api/credentials.py
 *.pyc
+6-7_twitter_api/old_credentials.py
+6-7_twitter_api/5-Data-Exploration-Visualisation-with-Pandas-Seaborn-Full.ipynb
